@@ -7,4 +7,5 @@ Currently my favourite programming language is C#, and probably javascript is th
 Contact
 
 Discord: https://discord.com/users/332650380829917189
+
 Steam: https://steamcommunity.com/id/_Tino_/
